@@ -1,5 +1,5 @@
 &Boxes
-    nx1list = 110,200,240
+    nx1list = 110,210,240
     ny1list = 210,70,200
     labellist = '*','x','+'
     boxsize = 30
