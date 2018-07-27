@@ -1,13 +1,13 @@
 &Boxes
-    nx1list = 174,113,240
-    ny1list = 87,235,200
+    nx1list = 110,200,240
+    ny1list = 210,70,200
     labellist = '*','x','+'
     boxsize = 30
 /
 
 &Vectors
-    xorigin = 110
-    yorigin = 100
+    xorigin = 111
+    yorigin = 105
     xa = 174
     ya = 67
     xb = 99
