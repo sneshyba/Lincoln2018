@@ -6,13 +6,13 @@
 /
 
 &Vectors
-    xorigin = 472
-    yorigin = 280
-    xa = 460
-    ya = 53
-    xb = 336
-    yb = 370
-    xc = 550
-    yc = 285
+    xorigin = 116
+    yorigin = 105
+    xa = 330
+    ya =0
+    xb = 80
+    yb =400
+    xc = 75
+    yc =80
 /
 
