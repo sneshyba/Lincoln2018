@@ -1,3 +1,4 @@
 *.pyc
 *-checkpoint.ipynb
+*_pycache_
 
